@@ -13,3 +13,5 @@ add the file to the repository list
 git add. : 
 all file add use this command
 
+git commit -m "some message":
+use to commit the changes in the repository
